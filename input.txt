@@ -1,0 +1,7 @@
+int apple;
+int orange;
+
+orange = 2;
+apple = 1;
+apple = apple + 1;
+orange = apple + orange;

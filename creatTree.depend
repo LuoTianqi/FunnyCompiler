@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1477740860 source:d:\seedcup\creattree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"define.h"
+
+1477639823 d:\seedcup\creattree\define.h
+
+1477749864 source:d:\seedcup\creattree\creattree.c
+	<stdio.h>
+	<stdlib.h>
+	"define.h"
+	"creatNode.h"
+	"IDfuncton.h"
+
+1477740460 d:\seedcup\creattree\creatnode.h
+	"define.h"
+
+1477750025 source:d:\seedcup\creattree\creatnode.c
+	<stdio.h>
+	<stdlib.h>
+	"define.h"
+	"IDfuncton.h"
+
+1477742195 d:\seedcup\creattree\idfuncton.h
+
+1477745300 source:d:\seedcup\creattree\idfuncton.c
+	<stdio.h>
+	<stdlib.h>
+	"define.h"
+
+1477539820 source:d:\seedcup\creattree\operate.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"operate.h"
+	"define.h"
+
+1477539254 d:\seedcup\creattree\operate.h
+	"define.h"
+
+1477815669 source:d:\seedcup\main\creatnode.c
+	<stdio.h>
+	<stdlib.h>
+	"define.h"
+	"IDfuncton.h"
+
+1477815331 d:\seedcup\main\define.h
+
+1477742195 d:\seedcup\main\idfuncton.h
+
+1477796009 source:d:\seedcup\main\idfuncton.c
+	<stdio.h>
+	<stdlib.h>
+	"define.h"
+
+1477655694 source:d:\seedcup\main\calc.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"define.h"
+	"operate.h"
+	"calc.h"
+
+1477750484 d:\seedcup\main\operate.h
+	"define.h"
+
+1477655626 d:\seedcup\main\calc.h
+	"define.h"
+
+1477815669 source:d:\seedcup\main\creattree.c
+	<stdio.h>
+	<stdlib.h>
+	"define.h"
+	"creatNode.h"
+	"IDfuncton.h"
+
+1477784619 d:\seedcup\main\creatnode.h
+	"define.h"
+
+1477801871 source:d:\seedcup\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"define.h"
+	"operate.h"
+
+1477750484 source:d:\seedcup\main\operate.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"operate.h"
+	"define.h"
+
+1477814832 source:d:\seedcup\main\operatetree.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"define.h"
+	"operate.h"
+	"calc.h"
+
+1477767089 source:d:\seedcup\main\freetree.c
+	<stdio.h>
+	<stdlib.h>
+	"define.h"
+	"operate.h"
+
